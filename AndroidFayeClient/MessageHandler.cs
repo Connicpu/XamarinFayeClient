@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json.Linq;
 
-namespace Wp7Faye {
+namespace AndroidFayeClient {
     public abstract class MessageHandler : IDisposable {
 
         #region Fields

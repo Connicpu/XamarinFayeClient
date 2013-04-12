@@ -1,11 +1,7 @@
-﻿using System;
-using System.Net;
-using System.Windows;
-using System.Windows.Input;
-using CodeTitans.JSon;
+﻿using CodeTitans.JSon;
 using Newtonsoft.Json.Linq;
 
-namespace Wp7Faye {
+namespace AndroidFayeClient {
     class NtsftToCdtt : IJSonWritable {
         private readonly JToken obj;
 

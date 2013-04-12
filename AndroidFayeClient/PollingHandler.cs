@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Diagnostics;
 using CodeTitans.Bayeux;
 using CodeTitans.JSon;
 using Newtonsoft.Json.Linq;
 
-namespace Wp7Faye {
+namespace AndroidFayeClient {
     public class PollingHandler : MessageHandler {
 
         #region Fields

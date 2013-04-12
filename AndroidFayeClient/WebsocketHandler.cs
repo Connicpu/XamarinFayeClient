@@ -3,7 +3,7 @@ using System.Threading;
 using Newtonsoft.Json.Linq;
 using WebSocket4Net;
 
-namespace Wp7Faye {
+namespace AndroidFayeClient {
     internal class WebsocketHandler : MessageHandler {
         // Fields
         private SessionState state;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Wp7Faye {
+namespace AndroidFayeClient {
     public class Faye {
         public static MessageHandler Connect(string uri) {
             return Connect(new Uri(uri));
