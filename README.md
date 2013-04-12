@@ -1,0 +1,1 @@
+A Xamarin client for a Faye Bayeux server

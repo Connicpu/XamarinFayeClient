@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidFayeClient", "AndroidFayeClient\AndroidFayeClient.csproj", "{B109DFBF-580B-454C-B290-2D89E72A0D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B109DFBF-580B-454C-B290-2D89E72A0D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B109DFBF-580B-454C-B290-2D89E72A0D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B109DFBF-580B-454C-B290-2D89E72A0D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B109DFBF-580B-454C-B290-2D89E72A0D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AndroidFayeClient\AndroidFayeClient.csproj
+	EndGlobalSection
+EndGlobal
